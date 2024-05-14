@@ -34,7 +34,7 @@ h1 {
   text-transform: uppercase;
   /* needs support for animating custom properties */
   /* Firefox not quite there yet, but it's coming */
-  ation: k 4s linear infinite;
+  animation: k 4s linear infinite;
   margin-top: 0;
 }
 @keyframes k {
